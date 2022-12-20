@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "Dummy body"
+    },
+    {
+      "title": "METTLESOL",
+      "body": "HELLO4",
+      "id": 4
+    },
+    {
+      "title": "HELL5",
+      "body": "WORLD5",
+      "id": 5
+    }
+  ]
+}
